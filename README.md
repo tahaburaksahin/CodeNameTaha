@@ -1,16 +1,17 @@
-# Code Name :Innie
+# Code Name :Taha
 
-![izLRXq](https://github.com/tahaburaksahin/CodeNameInnie/assets/99183230/412a37cb-f80d-481f-a858-a267db1f24f0)
-![izLRXq](https://github.com/tahaburaksahin/CodeNameInnie/assets/99183230/d2574638-fd22-4ea0-91df-fffad3933a5e)
-![ygl3u9](https://github.com/tahaburaksahin/CodeNameInnie/assets/99183230/52e677c8-5f49-4ab2-a1bd-d8f3eae1d86b)
-![JWxkMp](https://github.com/tahaburaksahin/CodeNameInnie/assets/99183230/403de859-71c8-4f2e-a164-b542f803a51d)
-![kQMypT](https://github.com/tahaburaksahin/CodeNameInnie/assets/99183230/08a436c4-a0b5-4a3e-96cf-93dcadcc2adc)
-![i3bbrh](https://github.com/tahaburaksahin/CodeNameInnie/assets/99183230/a2d3b503-4b06-47b6-accf-f40df42d119d)
+![oryKaL](https://github.com/user-attachments/assets/e12fcaf8-e7e2-475f-a8a7-f46e12e2ec3c)
+![MgYCrf](https://github.com/user-attachments/assets/fc7d4a0c-32b3-4dd8-aa06-b022e50d9222)
+![+2v6Eh](https://github.com/user-attachments/assets/1e0606d9-1160-4c9d-87dd-742c9cc581e0)
+![zzsdKg](https://github.com/user-attachments/assets/b67afa53-0e9c-4cd0-b9c6-74c986217495)
+![9NuFYX](https://github.com/user-attachments/assets/dc626c91-e300-4002-907e-6e37114e48be)
+![JOsVsb](https://github.com/user-attachments/assets/5e26537a-5503-469f-931e-3e3fd1e8bb63)
+
 
 
 Code Name: Innie is a short, old-school 2D action RPG.     
 
-You are a small Cat that called Innie(the best cat ever ever), an aspiring adventurer who comes to an Gotham City's island to save all super hereos and so on.
+You will control me and an aspiring adventurer who comes to an Gotham City's island to save all super hereos and so on.
 
 What You Can Do in This Game: 
 
