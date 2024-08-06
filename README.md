@@ -9,7 +9,7 @@
 
 
 
-Code Name: Innie is a short, old-school 2D action RPG.     
+Code Name: Taha is a short, old-school 2D action RPG.     
 
 You will control me and an aspiring adventurer who comes to an Gotham City's island to save all super hereos and so on.
 
